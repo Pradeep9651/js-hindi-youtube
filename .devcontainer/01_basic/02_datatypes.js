@@ -6,7 +6,7 @@ console.log(3 + 3)
 
 let name = "Pradeep"
 let age = 18
-let isLoggedIn = False
+//let isLoggedIn = False
 
 //number => 2to power 53
 //bigint 
@@ -20,5 +20,5 @@ let isLoggedIn = False
 //object
 
 console.log(typeof "Pradeep");
-console.log(typeof "undefined");//undefined
-console.log(typeof "null");//object
+console.log(typeof undefined);//undefined
+console.log(typeof null);//object
